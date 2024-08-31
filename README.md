@@ -33,8 +33,6 @@ Once this was on I noted that the angle of the localdeck was such that it would 
 
 ![10](complete-frame.png)
 
-TODO PHOTO
-
 Now with the framework ready it was time to decide on the wiring.
 
 It was at this point I decided to modify the LocalDeck and add wires to the unpopulated connections on the board. I feel I could have made do with the rear USB connection but such a connector at the angle it would be may limit some future options, Also given the connections were already ready to accept the modification it seemed easy enough to just solder on a couple of wires. I used some kapton type to hold the wire in position as I routed it to the rear usb connector which conveniently had space on its side to allow the cables to pop out. I also put kapton tape behind where the keyhole mounts on the rear panel are. This is to ensure that if the screw is too long and touches the board that it will not be able to short anything.
