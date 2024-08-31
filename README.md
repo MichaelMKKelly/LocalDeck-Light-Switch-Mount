@@ -1,4 +1,4 @@
-# LocalDeck Light Switch Mount - When you need more buttons at the light switch
+# LocalDeck Light Switch Mount
 This is a write up of my LocalDeck Deployment which adds 24 buttons with status LED's to a standard (UK) light switch with no permanent wall modifications.
 
 ![1](in-position-wide-angle.png)
