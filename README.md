@@ -24,9 +24,8 @@ This required grinding part of the spacer down to get a flat surface then drill 
 ![4](modified-spacer.png)
 ![5](drilled-backbox-with-spacer.png)
 ![6](bolted-backbox-and-spacer.png)
-![7](backbox-spacer-cable-holes.png)
-![8](backbox-space-joined.png)
-
+![7](backbox-space-joined.png)
+![8](backbox-spacer-cable-holes.png)
 
 Once this was on I noted that the angle of the localdeck was such that it would potentially interfere with the light switch when it was in place so I opted to add a spacer to the front of the backbox to give enough room.
 
