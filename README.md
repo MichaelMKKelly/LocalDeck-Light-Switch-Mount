@@ -41,7 +41,7 @@ It was at this point I decided to modify the LocalDeck and add wires to the unpo
 
 I used a small 5v power supply with a max output of 2.4A. Please note that the LocalDeck original PSU is rated at 3A. During testing I noted it didn't get much over an amp (maybe 1.2A at most) to be sure I also limited the brightness of the LEDS (main power consumer) to 80% brightness in firmware. at 80% brightness they use about 50% power
 
-I used Wago Connectors on both the 230v and the 5v circuits to ensure a solid connection which making it easy to disconnect and also add additional things later (will cover ideas later)
+I used Wago Connectors on both the 230v and the 5v circuits to ensure a solid connection which making it easy to disconnect and also add additional things later.
 
 ![12](wiring-in-place.png)
 
@@ -49,7 +49,7 @@ Now that it's almost ready for deployment It was time to put the faceplate and c
 
 ![13](fully-built-localdeck-in-place.png)
 
-Now was time to work on the software side of things. This is mostly a hardware write up and the software is very specific but I will note that I did customise the firmware a bit and I use Two automations to control everything. One Handles button presses and the other updates the LEDS as required. For feedback/device status/battery indicator/etc...
+Now was time to work on the software side of things. This is mostly a hardware write up and the software is very specific but I will note that I did customise the firmware a bit and I use two automations to control everything. One Handles button presses and the other updates the LEDS as required for feedback/device status/battery indicator/etc...
 
 ![14](fully-built-localdeck-in-place-with-leds.png)
 
@@ -66,7 +66,7 @@ With the keyhole mounting system it could be easily pushed out of position poten
 
 ## Further Plans
 
-There is plenty more room for activities inside the backbox and I am considering adding a second ESP32 setup to the deployment. Which could have various things attached to it: sensors/voice assistant/relays for the lights/etc...
+There is plenty more room for expansion inside the backbox and I am considering adding a second ESP32 setup to the deployment. Which could have various things attached to it: sensors/voice assistant/relays for the light switches/etc...
 
 I am pretty sure I will revisit this little setup soon and will potentially detail modifications in a future write up.
 
