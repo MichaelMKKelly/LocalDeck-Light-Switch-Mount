@@ -39,7 +39,7 @@ It was at this point I decided to modify the LocalDeck and add wires to the unpo
 
 ![11](modified-localdeck.png)
 
-I used a small 5v power supply with a max output of 2.4A. Please note that the LocalDeck original PSU is rated at 3A. During testing I noted it didn't get much over an amp (maybe 1.2 at most) ` to be sure I also limited the brightness of the LEDS (main power consumer) to 80% brightness in firmware. at 80% brightness they use about 50% power
+I used a small 5v power supply with a max output of 2.4A. Please note that the LocalDeck original PSU is rated at 3A. During testing I noted it didn't get much over an amp (maybe 1.2A at most) to be sure I also limited the brightness of the LEDS (main power consumer) to 80% brightness in firmware. at 80% brightness they use about 50% power
 
 I used Wago Connectors on both the 230v and the 5v circuits to ensure a solid connection which making it easy to disconnect and also add additional things later (will cover ideas later)
 
