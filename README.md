@@ -79,7 +79,7 @@ Being able to put something that looks "built in" in place without permanent mod
 
 ## Shout out to LocalBytes who made the LocalDeck
 
-They are a great company that make excellent value products. They have had some issues but have resolved them and acted better than most companies 1000 times their size. if your in the market for some smart home stuff then check them out.
+They are a great company that make excellent value products. They have had some issues but have resolved them and listened to feeedback better than most companies 1000 times their size. if your in the market for some smart home stuff then check them out and see if they have something that fits your purpose.
 
 ## Further Reading
 
