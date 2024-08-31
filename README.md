@@ -44,3 +44,4 @@ TODO PHOTO
 
 Now was time to work on the software side of things. This is mostly a hardware write up and the software is very specific but I will note that I did customise the firmware a bit and I use Two automations to control everything. One Handles button presses and the other updates the LEDS as required. For feedback/device stauts/battery indicator/etc...
 
+Once ready It was time to Mount it to the light switch. If your doing this kind of thing please ensure that the power to the lighting circuit is switched off.
