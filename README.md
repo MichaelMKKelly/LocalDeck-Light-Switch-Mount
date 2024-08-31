@@ -36,11 +36,11 @@ TODO PHOTO
 
 Now with the framework ready it was time to decide on the wiring.
 
-It was at this point I decided to modify the LocalDeck and add wires to the unpopulated connections on the board. I feel i could have made do with the rear USB connection but a such a connector at the angle it would be may limit some future options. and given the connections were already ready to accept the modification it seemed easy enough to just solder on a couple of wires. I used some kapton type to hold the wire in position as I routed it to the rear usb connector which conveniently had space on its side to allow the cables to pop out. I also put kapton tape on behind where the keyhole mounts on the rear panel are. This is to ensure that if the screw is too long and touches the board that it will not be able to short anything.
+It was at this point I decided to modify the LocalDeck and add wires to the unpopulated connections on the board. I feel I could have made do with the rear USB connection but such a connector at the angle it would be may limit some future options, Also given the connections were already ready to accept the modification it seemed easy enough to just solder on a couple of wires. I used some kapton type to hold the wire in position as I routed it to the rear usb connector which conveniently had space on its side to allow the cables to pop out. I also put kapton tape behind where the keyhole mounts on the rear panel are. This is to ensure that if the screw is too long and touches the board that it will not be able to short anything.
 
 ![11](modified-localdeck.png)
 
-I used a small 5v power supply with a max output of 2.4A. Please note that the LocalDeck original PSU is rated at 3A. During testing I noted it didn't get much over an amp (maybe 1.2 at most) however to be sure I also limited the brightness of the LEDS (main power consumer) to 80% brightness in firmware. at 80% brightness they use about 50% power
+I used a small 5v power supply with a max output of 2.4A. Please note that the LocalDeck original PSU is rated at 3A. During testing I noted it didn't get much over an amp (maybe 1.2 at most) ` to be sure I also limited the brightness of the LEDS (main power consumer) to 80% brightness in firmware. at 80% brightness they use about 50% power
 
 I used Wago Connectors on both the 230v and the 5v circuits to ensure a solid connection which making it easy to disconnect and also add additional things later (will cover ideas later)
 
@@ -63,7 +63,7 @@ Once ready It was time to Mount it to the light switch. If you're doing this kin
 
 The keypad is a little close to the switches so I may modify the back panel to extend the keyhole slots to allow it to drop down a little further
 
-With the keyhole mounting system it could be easily pushed out of position potentially exposing access to live mains. This does pose a small safety risk but given the household has no children it is limited. However maybe adding a retention system of some sort might be a good idea. A single screw somewhere should probably do it.
+With the keyhole mounting system it could be easily pushed out of position potentially exposing access to live mains. This does pose a small safety risk but given the household has no children it is limited. However, maybe adding a retention system of some sort might be a good idea. A single screw somewhere should probably do it.
 
 ## Further Plans
 
@@ -79,7 +79,7 @@ Being able to put something that looks "built in" in place without permanent mod
 
 ## Shout out to LocalBytes who made the LocalDeck
 
-They are a great company that makes excellent value products. They have had some issues but have resolved them and listened to feedback better than most companies 1000 times their size. if your in the market for some smart home stuff then check them out and see if they have something that fits your purpose.
+They are a great company that makes excellent value products. They have had some issues but have resolved them and listened to feedback better than most companies 1000 times their size. if you're in the market for some smart home stuff then check them out and see if they have something that fits your purpose.
 
 ## Further Reading
 
