@@ -14,7 +14,7 @@ To start with I got a standard single gang 45 degree back box and put the LocalD
 
 ![2](localdeck-on-45-backbox.png)
 
-It works extremely well and if you are looking for a more solid stand for the LocalDeck which is at a higher angle and lets you use the rear USB port then getting one of these is a great solution.
+It works extremely well and if you are looking for a more solid stand for the LocalDeck which is at a higher angle than the stock one and lets you use the rear USB port then getting one of these is a great solution.
 
 Now that the entire premise of the idea was greenlit I moved to modifying the backbox so that it could easily be mounted to a light switch without permanently modifying the original setup. For this I opted to get a faceplate spacer and attach this to the top of the back box.
 
