@@ -6,6 +6,8 @@ This is a write up of my LocalDeck Deployment which adds 24 buttons with status 
 
 This write up will focus more on the hardware side of the project as software is highly specific to my home assistant setup.
 
+As with all my write ups, It is my hope that I may spark or inspire an idea for others to start their own project. I have had many ideas based upon other peoples projects and can only hope that I can do the same for others.
+
 ## The Process
 
 To start with I got a standard single gang 45 degree back box and put the LocalDeck on it to see how it would look.
@@ -85,8 +87,8 @@ They are a great company that makes excellent value products. They have had some
 
 My LocalDeck Review/Feedback write up - https://github.com/MichaelMKKelly/LocalDeck-Review/
 
+LocalBytes Website: https://www.mylocalbytes.com/
+
 LocalDeck Product Page: https://www.mylocalbytes.com/products/localdeck-bundle
 
 LocalDeck Documentation: https://blog.mylocalbytes.com/kb/2024-04-01/refs-localdeck/
-
-LocalBytes Website: https://www.mylocalbytes.com/
