@@ -18,7 +18,7 @@ It works extremely well and if you are looking for a more solid stand for the Lo
 
 Now that the entire premise of the idea was greenlit I moved to modifying the backbox so that it could easily be mounted to a light switch without permanently modifying the original setup. For this I opted to get a faceplate spacer and attach this to the top of the back box.
 
-This required grinding part of the spacer down to get a flat surface then drill some holes in both the spacer and the backbox and use M2 bolts to hold them together. I then drilled a few extra holes at the join and in the backbox for cables to be routed from the switch to the backbox. This is how I will power the setup as I have both live and neutral at the intended switch.
+This required grinding part of the spacer down to get a flat surface then drill some holes in both the spacer and the backbox and use M2 bolts to hold them together. I then drilled a few extra holes through the join and in the backbox for cables to be routed from the switch to the backbox. This is how I will power the setup as I have both live and neutral at the intended switch.
 
 ![3](backbox-spacer-prejoin.png)
 ![4](modified-spacer.png)
