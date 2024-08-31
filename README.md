@@ -45,3 +45,25 @@ TODO PHOTO
 Now was time to work on the software side of things. This is mostly a hardware write up and the software is very specific but I will note that I did customise the firmware a bit and I use Two automations to control everything. One Handles button presses and the other updates the LEDS as required. For feedback/device stauts/battery indicator/etc...
 
 Once ready It was time to Mount it to the light switch. If your doing this kind of thing please ensure that the power to the lighting circuit is switched off.
+
+## Issues
+
+The keypad is a little close to the switches so I may modify the backpanel to extend the keyhole slots to allow it to drop down a little further
+
+With the keyhole mounting system it could be easily pushed out of position potentially exposing access to live mains. this does pose a small safety risk but given the holdhold it is limited. However maybe adding a retention system of some sort might be a good idea. A single screw somewheere should probably do it.
+
+## Conclusion
+
+I am very happy with the way it has turned out and It has gone down well with other members of the household.
+
+Being able to put something that looks "built in" in place without permanent modification to walls and such is a big bonus.
+
+## Further Reading
+
+My LocalDeck Review/Feedback write up - https://github.com/MichaelMKKelly/LocalDeck-Review/
+
+LocalDeck Product Page: https://www.mylocalbytes.com/products/localdeck-bundle
+
+LocalDeck Documentation: https://blog.mylocalbytes.com/kb/2024-04-01/refs-localdeck/
+
+Localbytes Website: https://www.mylocalbytes.com/
