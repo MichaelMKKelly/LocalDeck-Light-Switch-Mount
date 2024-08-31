@@ -69,7 +69,7 @@ With the keyhole mounting system it could be easily pushed out of position poten
 
 There is plenty more room for activities inside the backbox and I am considering adding a second ESP32 setup to the deployment. Which could have various things attached to it: sensors/voice assistant/relays for the lights/etc...
 
-I am pretty sure I will revisit this little implacement soon and will potentially detail modifications in a future write up.
+I am pretty sure I will revisit this little setup soon and will potentially detail modifications in a future write up.
 
 ## Conclusion
 
